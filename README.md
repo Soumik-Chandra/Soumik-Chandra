@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soumik-Chandra
+- 👋 Hi, I am Soumik Chandra.
 - 👀 I am a Data Analytics and Data Science Enthusiast.
 - 🌱 My skillset includes PowerBI, Python, Java, SQL. 
 - ✨ Check out the Portfolio Website Repository to view my projects.
