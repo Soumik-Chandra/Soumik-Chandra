@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Soumik-Chandra
-- 👀 I’m interested in Data Analytics, Power BI, Python and Data Science.
-- 🌱 I’m currently learning Data Analytics, Power BI, Python 
+- 👀 I am a Data Analytics and Data Science Enthusiast.
+- 🌱 My skillset includes PowerBI, Python, Java, SQL. 
+- ✨ Check out the Portfolio Website Repository to view my projects.
 - 📫 You can reach me at soumik.chandra26@gmail.com
 
 <!---
